@@ -1,0 +1,7 @@
+.nav{
+  display: flex
+}
+.nav1{
+  flex: 1;
+  color: #ccc
+}
